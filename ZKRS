@@ -1,0 +1,10 @@
+Zaikron_Catalogo/
+├── index.html        ← catálogo principal (modo terminal hacker + glitch)
+├── /media/
+│   ├── glitch.mp3    ← sonido corrupto de inicio
+│   ├── bg.jpg        ← fondo oscuro con luces de neón
+│   └── icon.png      ← símbolo ZKR
+└── /data/
+    ├── zkr_catalogo1.txt  ← catálogo científico (001–012)
+    ├── zkr_runmode.txt    ← modo corrupto
+    └── zkr_sector_run.txt ← ubicaciones y coordenadas
